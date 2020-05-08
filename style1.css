@@ -1,0 +1,128 @@
+.row img{
+    width: 20px;
+}
+.row img:hover{
+    color:blueviolet;
+    cursor: pointer;
+}
+.row{
+    background-color: blue;
+    
+}
+#boxes img{
+    width: 400px;
+
+
+}
+#HEP,#hou,#IT,#THAR{
+    margin: 2px;
+    float: left;
+    width:150px
+    height:70px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: white;
+}  
+#jamil{
+    height: 50px;
+    border: 1px solid black;
+}
+}
+.box1 img {
+    width: 500px;
+}
+.box2 img {
+    width: 100px;
+}
+.box3 img {
+    width: 100px;
+}
+.box4 img {
+    width: 100px;
+}
+.box5 img {
+    width: 100px;
+}
+.box6 img {
+    width: 100px;
+}
+.box1,.box2,.box3,.box4,.box5,.box6{
+    margin: 2px;
+    float: left;
+    width:350px;
+    height:150px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: white;
+}  
+#boxes{
+    background-color: whitesmoke;
+}
+.bdr{
+    flex-wrap: wrap;
+}
+#io{
+    background-color: white;
+    
+
+
+} 
+#intro{
+    background-color: whitesmoke;
+}
+#{
+    padding:0;
+    margin: 0;
+}
+#say,#hello,#hey,#hmm{
+    background-color:blue;
+    color: white;
+    
+}
+.row .col-3 .col-6,.col-5{
+    
+    flex-wrap: wrap;
+}
+
+            
+
+#say:hover,#hello:hover, #hey:hover,#hmm:hover{
+    background-color:lightblue;
+    color: white;
+}
+#jbh{ margin:0px 2px 0px 2px; 
+    border-radius: 5px;
+    background-color: blue;"
+
+}
+#jbh:hover{ background-color:lightblue;
+    color: white;
+
+}
+
+}
+
+.col-3{
+    text-align: center;
+    padding-top: 5px;
+}
+.col-6{
+    padding-top: 10px;
+    
+    height: 50px;
+}
+.col-5{
+    text-align: center;
+}
+.first,.second,.third{
+    cursor: pointer;
+   display: inline-block;
+   padding-top: 5px;
+   width: 80px;
+   height: 30px;
+   margin:5px;
+   font-size: 10 px;
+   background-color: white;
+   
+
+}
